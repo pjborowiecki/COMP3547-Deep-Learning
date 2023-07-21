@@ -27,7 +27,7 @@
 
 ## About The Project
 
-![images/screenshot1](images/screenshot-main.png)
+![images/screenshot1](_images/screenshot-main.png)
 
 This repository contains my final submission for the **COMP3547 Deep Learning** module assignment at Durham University in the academic year 2022/2023. Generative modelling is arguably one of the most popular applications of deep learning in recent times. Two implementations of diffusion-based deep generative models, designed to synthesize unique images, which could plausibly come from a training data set are included, along with a report detailing the results of training and evaluation.
 
@@ -37,7 +37,7 @@ The DDPM model was slower to train and to sample from, but produced samples of p
 
 Here are the samples produced by the DDPM after 940 epochs of training on CIFAR-10, samples produced by DDPM after only 18 epochs of training on FFHQ, and samples produced by SSM after 2020 epochs of training on CIFAR-10 respectively.
 
-![images/screenshot2](images/screenshot5.png)
+![images/screenshot2](_images/screenshot5.png)
 
 <br>
 <!-- FEEDBACK RECEIVED -->
