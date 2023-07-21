@@ -1,4 +1,4 @@
-  <h1 align="center">Exploring Generative Capabilities of Diffusion-based Deep Learning Models</h1>
+  <h1 align="center">Exploring Generative Capabilities of Diffusion-Based Deep Learning Models</h1>
   <h3 align="center">COMP3547 Deep Learning Assignment 2022/2023</h3>
   <p align="center">
     <a href="https://github.com/pjborowiecki/COMP3547-Deep-Learning.git/issues">Report Bug</a>
