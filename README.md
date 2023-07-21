@@ -27,7 +27,9 @@
 
 ## About The Project
 
-Check back soon.
+This repository contains my final submission for the **COMP3547 Deep Learning** module assignment at Durham University in the academic year 2022/2023. Two implementations of diffusion-based deep generative models, designed to synthesize unique images, which could plausibly come from a training data set are included, along with a report detailing the results of training and evaluation.
+
+The underlying theory is first discussed, followed by methodology, and empirical evaluation of results. Presented models are largely re-implementations of two existing papers [1, 2]. Training was performed using two data sets, CIFAR-10 [3] and FFHQ [4], on images of size 32x32 and 96x96 respectively. Results confirm that such models are capable of generating realistic, diverse, high-quality images, although relatively long training times are required to achieve this.
 
 <br>
 <!-- FEEDBACK RECEIVED -->
