@@ -83,6 +83,6 @@ Distributed under the MIT License.
 
 ## Contact
 
-Piotr Borowiecki - [@pjborowiecki](https://twitter.com/pjborowiecki) - hello@pjborowiecki.com
+Piotr Borowiecki - [@pjborowiecki](https://www.linkedin.com/in/pjborowiecki/) - hello@pjborowiecki.com
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
