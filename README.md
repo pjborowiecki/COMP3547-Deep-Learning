@@ -46,10 +46,10 @@ Here are the samples produced by the DDPM after 940 epochs of training on CIFAR-
 
 The submission is a good investigation of DDPMs and score-matching models, which are appropriate choices due to their diversity and high-quality modelling, although challenging to use due to their long training times required to scale this type of architecture to high-resolution images. The report was very well-written. The samples are of reasonable quality, although it seems like the schedules could be be improved according to the data sets. No interpolations or attempt at implementing a diffusion interpolation solution was shown.
 
-- Solution marks: 24/50
-- Realsim marks: 17/30
-- Diversity marks: 24/20
-- Bonus points: 6
+- Solution marks: **26/50**
+- Realsim marks: **19/30**
+- Diversity marks: **20/20**
+- Bonus points (not using GANs, training on higher resolution images): **6**
   <br>
 - **Final grade: 71/100**
 
